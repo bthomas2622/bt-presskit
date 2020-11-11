@@ -1,0 +1,23 @@
+{
+  "name": "notg-presskit",
+  "version": "1.0.0",
+  "description": "Nectar of the Gods PressKit",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bthomas2622/notg-presskit.git"
+  },
+  "keywords": [
+    "notg",
+    "presskit"
+  ],
+  "author": "Ben Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bthomas2622/notg-presskit/issues"
+  },
+  "homepage": "https://github.com/bthomas2622/notg-presskit#readme"
+}
