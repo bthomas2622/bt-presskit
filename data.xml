@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Ben Thomas</title>
+  <based-in>Berkeley, CA</based-in>
+  <founding-date>02/12/1992</founding-date>
+  <website>http://bthomas2622.github.io/</website>
+  <press-contact>
+    benthomasdeveloper@gmail.com
+  </press-contact>
+
+  <analytics></analytics>
+
+  <socials>
+    <social>
+      <name>Twitter @freebrunch</name>
+      <link>
+        https://twitter.com/freebrunch
+      </link>
+    </social>
+  </socials>
+
+  <description></description>
+
+  <!-- Choose between a single block: -->
+  <history></history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <trailers>
+    <trailer>
+      <name></name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+</company>

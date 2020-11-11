@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bthomas2622/notg-presskit/issues"
   },
-  "homepage": "https://github.com/bthomas2622/notg-presskit#readme"
+  "homepage": "https://github.com/bthomas2622/notg-presskit#readme",
+  "dependencies": {
+    "presskit": "^0.13.0"
+  }
 }
