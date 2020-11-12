@@ -2,7 +2,7 @@
 <company>
   <title>Ben Thomas</title>
   <based-in>Berkeley, CA</based-in>
-  <founding-date>02/12/1992</founding-date>
+  <founding-date>02/12/1992 (birthday)</founding-date>
   <website>http://bthomas2622.github.io/</website>
   <press-contact>
     benthomasdeveloper@gmail.com
@@ -17,22 +17,34 @@
         https://twitter.com/freebrunch
       </link>
     </social>
+    <social>
+      <name>Youtube</name>
+      <link>
+        https://www.youtube.com/channel/UCLmiIR_rnAzUoC01y2C_JqA
+      </link>
+    </social>
   </socials>
 
-  <description></description>
+  <description>Ben Thomas is an independent game developer building distinct multiplayer gaming experiences that challenge mental reflexes and bring people together.</description>
 
   <!-- Choose between a single block: -->
-  <history></history>
+  <!-- <history></history> -->
 
   <!-- Or multiple blocks: -->
-  <!--
   <histories>
     <history>
-      <header></header>
-      <text></text>
+      <header>Bio</header>
+      <text>I was born in Ridgewood, NJ and grew up in Atlanta, GA. I have fond memories going to the pool during the hot summer days then staying up all night playing N64 and later Halo 2. I wasn't sure what I wanted to do with my life, but I knew I liked math so I studied mechanical engineering at Georgia Tech. I now reside in the Bay Area and outside my day job I like dreaming up fun game projects to learn skills for and work on. I love hanging out with friends, hiking, non-fiction books, and NBA twitter. I am passionate about urban planning, social justice, and oatmeal.</text>
+    </history>
+    <history>
+      <header>Colony Collapse Disorder + Space Canoe (2016)</header>
+      <text>The first games I ever made. Colony Collapse Disorder (CCD) is a procedurally generated adventure game where you play as an Oakland bee scouring a flower field. You must maintain honey reserves, navigate randomized encounters, and most importantly produce Queen Bees. Space Canoe is an arcade game where you paddle through space and dodge asteroids.</text>
+    </history>
+    <history>
+      <header>Nectar of the Gods (2020)</header>
+      <text>My first commercial game. It was difficult to start making. It took me years to kinda work through the imposter syndrome and anxiety that comes with it. But I got through it! I was inspired by the “rock paper scissors” tactics and mental reflexes of fast paced strategy games like starcraft and speed chess. I started making Nectar of the Gods on nights and weekends while working as a software engineer in 2019. I commited to full time development in mid 2020. What resulted was an unquenchable multiplayer real-time strategy game where bugs clash over the sweet nectar of sugary beverages.</text>
     </history>
   </histories>
-  -->
 
   <trailers>
     <trailer>
@@ -45,27 +57,59 @@
     </trailer>
   </trailers>
 
-  <awards>
+  <!-- <awards>
     <award>
       <description></description>
       <info></info>
     </award>
-  </awards>
+  </awards> -->
 
-  <quotes>
+  <!-- <quotes>
     <quote>
       <description></description>
       <name></name>
       <website></website>
       <link></link>
     </quote>
-  </quotes>
+  </quotes> -->
 
   <additionals>
     <additional>
-      <title></title>
-      <description></description>
-      <link></link>
+      <title>Ben Thomas Game Dev Blog</title>
+      <link>http://bthomas2622.github.io/gamedevblog/index.html</link>
+    </additional>
+    <additional>
+      <title>Itch.io Home</title>
+      <link>https://freebrunch.itch.io/</link>
+    </additional>
+    <additional>
+      <title>Ben Thomas Personal Website</title>
+      <link>http://bthomas2622.github.io/</link>
     </additional>
   </additionals>
+
+  <credits>
+    <credit>
+      <person>Ben Thomas</person>
+      <role>Designer, Programmer, Artist, Sound</role>
+    </credit>
+    <credit>
+      <person>Tiffany Peng Hwa</person>
+      <role>Collaborator, Musician</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Email</name>
+      <mail>benthomasdeveloper@gmail.com</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>
+        https://twitter.com/freebrunch
+      </link>
+    </contact>
+  </contacts>
+
 </company>
