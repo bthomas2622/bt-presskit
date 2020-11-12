@@ -46,16 +46,16 @@
     </history>
   </histories>
 
-  <trailers>
+  <!-- <trailers>
     <trailer>
-      <name></name>
+      <name></name> -->
 
       <!-- Pick one: -->
-      <youtube>
+      <!-- <youtube> -->
         <!-- Video ID only, not the full URL -->
-      </youtube>
+      <!-- </youtube>
     </trailer>
-  </trailers>
+  </trailers> -->
 
   <!-- <awards>
     <award>
