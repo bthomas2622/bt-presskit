@@ -1,107 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>Nectar of the Gods</title>
-  <release-date>12/07/2020</release-date>
-  <website></website>
+  <release-dates>
+    <release-date>Early Access: 12/07/2020</release-date>
+    <release-date>Full Release: TBD</release-date>
+  </release-dates>
+  <website>https://discord.gg/2bVa2st</website>
 
   <platforms>
     <platform>
       <name>Steam (PC/Mac)</name>
-      <link></link>
+      <link>https://store.steampowered.com/app/1421410/Nectar_of_the_Gods/</link>
     </platform>
   </platforms>
-
-  <relations>
-    <relation>
-      <type>DLC</type>
-      <product>Nectar of the Gods - The Hive and Spidey Party Bugs Bundle</product>
-    </relation>
-  </relations>
 
   <prices>
     <price>
       <currency>USD</currency>
-      <value>Free to Play</value>
+      <value>Free to Play, $12.99 for Bugs Bundle DLC</value>
     </price>
   </prices>
 
-  <description></description>
+  <description>Nectar of the Gods is an unquenchable head-to-head real-time strategy game where bugs battle over the finest beverages. You must strategically deploy a chosen bug family, nimbly navigate the countertop, and claim liquid nirvana!</description>
 
-  <!-- Choose between a single block: -->
-  <history></history>
-
-  <!-- Or multiple blocks: -->
-  <!--
-  <histories>
-    <history>
-      <header></header>
-      <text></text>
-    </history>
-  </histories>
-  -->
+  <history>Nectar of the Gods started in Summer 2019 when I got addicted to speed chess. I got kind of caught up with this idea of muscle memory but for strategy games. In sports your body just instinctively moves correctly faster than your brain can tell it what to do, because you’ve built up “muscle memory” mastery. In speed chess you are training up on tactics and patterns but implementing them faster than you are consciously choosing them. I loved that flow state and it inspired me to start teaching myself game development in a serious way. A few tower defense tutorials later and I felt like I had a starting off point to start creating. Bugs were also gonna be the stars. I have always been fascinated with bugs, my first game was about bees, and I think it’d be cool to take up beekeeping if I’m ever lucky enough to have land. I chose to focus on making a multiplayer game because that’s the type of game I love to play. I love human interaction through games and matching wits against real people rather than AI. After 6 months of part time work I committed to Nectar of the Gods full time at the start of 2020. And in December of 2020 Nectar of the Gods launched on Steam Early Access!</history>
 
   <features>
-    <feature></feature>
+    <feature>Party any way you want: Solo, Local Multiplayer, Online with Friend, Unranked Online, Ranked Online</feature>
+    <feature>24 unique bugs with special abilities and quirks for you to optimize across 3 Bug Families (Beetle Brigade, The Hive, Spidey Party)</feature>
+    <feature>Navigate 3 dynamic countertops: Soda Fountain, Boba Shop, Coffee Bar</feature>
+    <feature>Colorful, delicious visuals to immerse you in the miniature conflict</feature>
+    <feature>Catalog your journey with detailed game statistics and achievements</feature>
+    <feature>Lead your bugs with multiple inputs: M/K or Controller</feature>
   </features>
 
   <trailers>
     <trailer>
-      <name></name>
-
-      <!-- Pick one: -->
+      <name>Nectar of the Gods Gameplay Trailer</name>
       <youtube>
-        <!-- Video ID only, not the full URL -->
+        Czp3qYaxfS8
       </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
     </trailer>
   </trailers>
 
   <!-- You can set your widgets here (optional): -->
   <widgets>
     <steam>
-      <!-- Steam ID -->
-      <!-- e.g. 424242 -->
+      1421410
     </steam>
-    <humble>
-      <!-- Humble Bundle product/id -->
-      <!-- e.g. mysupergame/42AAbB42dC -->
-    </humble>
-    <itch>
+    <!-- <itch> -->
       <!-- itch.io ID -->
       <!-- e.g. 42424 -->
-    </itch>
-    <gamejolt>
-      <!-- Game Jolt package ID -->
-      <!-- e.g. 4AbCd2Ef -->
-    </gamejolt>
-    <bandcamp>
-      <!-- Bandcamp ID -->
-      <!-- e.g. 4242424242 -->
-    </bandcamp>
+    <!-- </itch> -->
   </widgets>
 
-  <awards>
+  <press-can-request-copy>true</press-can-request-copy>
+  <monetization-permission>monetize</monetization-permission>
+
+  <!-- <awards>
     <award>
       <description></description>
       <info></info>
     </award>
-  </awards>
+  </awards> -->
 
-  <quotes>
+  <!-- <quotes>
     <quote>
       <description></description>
       <name></name>
       <website></website>
       <link></link>
     </quote>
-  </quotes>
+  </quotes> -->
 
   <additionals>
     <additional>
-      <title></title>
-      <description></description>
+      <title>Game Development Blog</title>
+      <link>http://bthomas2622.github.io/gamedevblog/index.html</link>
+    </additional>
+    <additional>
+      <title>Request Press Copy</title>
+      <description>Email me at benthomasdeveloper@gmail.com for a press copy of NotG DLC</description>
+      <link></link>
+    </additional>
+    <additional>
+      <title>Game Monetization</title>
+      <description>Ben Thomas allows for the contents of Nectar of the Gods to be published through video broadcasting services for any commercial or non-commercial purposes. Monetization of videos created containing assets from Nectar of the Gods is legally and explicitly allowed by Ben Thomas</description>
       <link></link>
     </additional>
   </additionals>
@@ -120,11 +104,8 @@
 
   <contacts>
     <contact>
-      <name></name>
-
-      <!-- Pick one: -->
-      <mail></mail>
-      <link></link>
+      <name>Ben Thomas</name>
+      <mail>benthomasdeveloper@gmail.com</mail>
     </contact>
   </contacts>
 </product>
