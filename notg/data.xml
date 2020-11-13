@@ -23,7 +23,20 @@
 
   <description>Nectar of the Gods is an unquenchable head-to-head real-time strategy game where bugs battle over the finest beverages. You must strategically deploy a chosen bug family, nimbly navigate the countertop, and claim liquid nirvana!</description>
 
-  <history>Nectar of the Gods started in Summer 2019 when I got addicted to speed chess. I got kind of caught up with this idea of muscle memory but for strategy games. In sports your body just instinctively moves correctly faster than your brain can tell it what to do, because you’ve built up “muscle memory” mastery. In speed chess you are training up on tactics and patterns but implementing them faster than you are consciously choosing them. I loved that flow state and it inspired me to start teaching myself game development in a serious way. A few tower defense tutorials later and I felt like I had a starting off point to start creating. Bugs were also gonna be the stars. I have always been fascinated with bugs, my first game was about bees, and I think it’d be cool to take up beekeeping if I’m ever lucky enough to have land. I chose to focus on making a multiplayer game because that’s the type of game I love to play. I love human interaction through games and matching wits against real people rather than AI. After 6 months of part time work I committed to Nectar of the Gods full time at the start of 2020. And in December of 2020 Nectar of the Gods launched on Steam Early Access!</history>
+  <histories>
+    <history>
+      <header>How it Started</header>
+      <text>Nectar of the Gods started in Summer 2019 when I got addicted to speed chess. In speed chess you are training up on tactics and patterns but implementing them faster than you are consciously choosing them. At your fingertips you can have a 2 minute battle with a stranger on the internet filled with mini triumphs, brutal mistakes, emergent scenarios, and more. And it’s all on a clock, you have to think on your toes and become completely absorbed. There’s no time to second guess or agonize over decisions. It’s all a really satisfying flow state and instinct exercise. The fact that it is self contained in a short but sweet experience that is easy to have over and over again but also easy to walk away from at any time also appealed to me.</text>
+    </history>
+    <history>
+      <header>Early Design</header>
+      <text>I chose to focus on making a multiplayer game because that’s the type of game I love to play. I adore human interaction through games and matching wits against real people rather than AI. And somewhere along the way the elegant simplicity of chess morphed towards the real time strategy game genre with concepts like resource management and environmental randomness. Bugs were also gonna be the stars. I have always had a weird fascination with bugs. My first game was about bees, and I think it’d be cool to take up beekeeping if I’m ever lucky enough to have land. I think the idea of them being addicted to sweet beverages game from an ant invasion into my apartment. They were so coordinated and excited about our kitchen!</text>
+    </history>
+    <history>
+      <header>Putting it Together</header>
+      <text>I had programming skills from my career as a software engineer. But I had no real experience making art or animating. After picking a cheap tablet and watching a few tutorials I found my style and started having a lot of fun drawing the bugs and drinks that flowed from my mind. Everything in Nectar of the Gods is hand drawn and animated frame by frame. Luckily it's much much easier to animate bug legs than human locomotion. I saved the online multiplayer and music for last. I was quite scared of the online code. But in the end Steam offered free matchmaking and peer-to-peer networking tools that made the process much easier than a lot of the from scratch solutions. For music I lucked out with Tiffany Hwa. She went to med school with my partner's sister and just so happened to compose music on the side! She loved the game concept and collaborating with her on theme and game music was a delight.</text>
+    </history>
+  </histories>
 
   <features>
     <feature>Party any way you want: Solo, Local Multiplayer, Online with Friend, Unranked Online, Ranked Online</feature>
