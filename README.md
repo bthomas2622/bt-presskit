@@ -1,3 +1,5 @@
+Documention copied for my reference from [presskit.html](https://github.com/pixelnest/presskit.html)
+
 ## Usage
 
 Run this command:
