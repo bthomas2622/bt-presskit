@@ -2,8 +2,7 @@
 <product>
   <title>Nectar of the Gods</title>
   <release-dates>
-    <release-date>Early Access: 12/07/2020</release-date>
-    <release-date>Full Release: TBD</release-date>
+    <release-date>1/27/2021</release-date>
   </release-dates>
   <website>https://discord.gg/2bVa2st</website>
 
@@ -111,6 +110,10 @@
     </credit>
     <credit>
       <person>Tiffany Peng Hwa</person>
+      <role>Music, Freelancer</role>
+    </credit>
+    <credit>
+      <person>Terry Peng</person>
       <role>Music, Freelancer</role>
     </credit>
   </credits>
