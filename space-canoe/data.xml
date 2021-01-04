@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Space Canoe</title>
+  <release-dates>
+    <release-date>12/29/2016</release-date>
+  </release-dates>
+  <website>https://freebrunch.itch.io/space-canoe</website>
+
+  <platforms>
+    <platform>
+      <name>Itch.io (Android/PC/Mac)</name>
+      <link>https://freebrunch.itch.io/space-canoe</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency></currency>
+      <value>Free</value>
+    </price>
+  </prices>
+ 
+  <description>Space Canoe is a 2D arcade style game in a similar vein as the classic "asteroids" created using the LibGDX framework. The player uses the left and right arrows (left and right screen touch on mobile) to paddle the canoe away from the perilous space debris. The goal is to survive as long as possible in order to obtain a high "debris dodged" score.</description>
+
+  <histories>
+    <history>
+      <header>LibGDX</header>
+      <text>Space Canoe started because LibGDX felt like the next tool to learn on my game development quest. I had some experience with Java and LibGDX was much more lightweight than some of the options at the time like Unity. I felt like this lightweight, framework approach would help me learn and build quickly.</text>
+    </history>
+    <history>
+      <header>Paddle through the cosmos</header>
+      <text>I wanted to make something simple. A lot of beginner tutorials center around recreating classics like Pong and Asteroids. I think that must be how the idea of a sort of "reverse asteroids" game design came to me. Where instead of shooting or dodging asteroids that were coming at you, you paddled away from the asteroids. Paddling through space is such a cool concept because speed is so relative and momentum is everything without gravity. Also a canoe in space allowed me to take the game in a "trippyish" direction so my simple, colorful art could feel cohesive.</text>
+    </history>
+    <history>
+      <header>Sticking the landing</header>
+      <text>I'm proud of how this quirkly arcade game came together visiting home for the holidays in 2016. I was emboldened to join game jams now that I knew a somewhat known industry framework like LibGDX. The game is kinda of disorienting the art doesn't really support the gameplay. It is confusing for the player to understand that the canoe is speeding through space since it is pinned through the center of the screen. My art has come a long way since. It was also a lesson in anticipating how the design is emphasized by the art.</text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>Playable on PC or mobile</feature>
+    <feature>Rhythmic, tense gameplay</feature>
+    <feature>High score tracking</feature>
+  </features>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <itch>
+      108654
+    </itch>
+  </widgets>
+
+  <press-can-request-copy>true</press-can-request-copy>
+  <monetization-permission>monetize</monetization-permission>
+
+  <!-- <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards> -->
+
+  <additionals>
+    <additional>
+      <title>Game Development Blog</title>
+      <link>http://bthomas2622.github.io/gamedevblog/index.html</link>
+    </additional>
+    <additional>
+      <title>Game Monetization</title>
+      <description>Ben Thomas allows for the contents of Space Canoe to be published through video broadcasting services for any commercial or non-commercial purposes. Monetization of videos created containing assets from Space Canoe is legally and explicitly allowed by Ben Thomas</description>
+      <link></link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Ben Thomas</person>
+      <role>Design, Programming, Art</role>
+      <website>http://bthomas2622.github.io/</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Ben Thomas</name>
+      <mail>benthomasdeveloper@gmail.com</mail>
+    </contact>
+  </contacts>
+</product>

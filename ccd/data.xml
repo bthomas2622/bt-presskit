@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Colony Collapse Disorder</title>
+  <release-dates>
+    <release-date>9/19/2016</release-date>
+  </release-dates>
+  <website>https://freebrunch.itch.io/colony-collapse-disorder</website>
+
+  <platforms>
+    <platform>
+      <name>Itch.io (Playable in Browser)</name>
+      <link>https://freebrunch.itch.io/colony-collapse-disorder</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency></currency>
+      <value>Free</value>
+    </price>
+  </prices>
+ 
+  <description>Colony Collapse Disorder (CCD) is a procedurally generated adventure game where you play as an Oakland bee scouring a flower field. You must maintain honey reserves, navigate randomized encounters, and most importantly produce Queen Bees.</description>
+
+  <histories>
+    <history>
+      <header>How it Started</header>
+      <text>The first programming I ever learned was through an online web development certification. I learned html, css. and some javascript for making simple web pages. And even though these aren't traditional game development tools, I was sure gonna try and make a game with them!</text>
+    </history>
+    <history>
+      <header>Point and Click</header>
+      <text>One of the tutorials I was doing for my web development classes was a javascript framwork called "Knockout.js". And Knockout.js had a core feature called "Automatic UI Refresh - When your data model's state changes, your UI updates automatically". Sounds like a game engine right?? I realized I could assign data to css elements on a page and manipulate all the elements on the page based on click information.</text>
+    </history>
+    <history>
+      <header>BEES</header>
+      <text>I now had a dynamic single page canvas on which to create my game from. I was obsessed with becoming a beekeeper at the time so I thought it would be cool to go on an adventure as a bee in my game. I combined elements from point-and-click adventure games and roguelike games and my imagination ran wild. I created a hexagonal "flower field" grid for the player to click through. And I drew comical random events to stumble upon. I even hooked up a live weather API for Oakland, CA (where I was living at the time) for that sweet sweet "immersion". CCD was born. I shared with my friends and family and was giddy that I had actually made a playable game. Still so proud of it to this day.</text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>Playable in browser</feature>
+    <feature>Global high score leaderboard</feature>
+    <feature>Live weather</feature>
+    <feature>Artful, high fidelity visuals to immerse you in the adventure</feature>
+    <feature>Visit local flowers every step of the way</feature>
+  </features>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <itch>
+      475686
+    </itch>
+  </widgets>
+
+  <press-can-request-copy>true</press-can-request-copy>
+  <monetization-permission>monetize</monetization-permission>
+
+  <!-- <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards> -->
+
+  <additionals>
+    <additional>
+      <title>Game Development Blog</title>
+      <link>http://bthomas2622.github.io/gamedevblog/index.html</link>
+    </additional>
+    <additional>
+      <title>Game Monetization</title>
+      <description>Ben Thomas allows for the contents of Colony Collapse Disorder to be published through video broadcasting services for any commercial or non-commercial purposes. Monetization of videos created containing assets from Colony Collapse Disorder is legally and explicitly allowed by Ben Thomas</description>
+      <link></link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Ben Thomas</person>
+      <role>Design, Programming, Art</role>
+      <website>http://bthomas2622.github.io/</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Ben Thomas</name>
+      <mail>benthomasdeveloper@gmail.com</mail>
+    </contact>
+  </contacts>
+</product>

@@ -5,7 +5,7 @@ Documention copied for my reference from [presskit.html](https://github.com/pixe
 Run this command:
 
 ```
-presskit build
+presskit build -B -L
 ```
 
 **presskit.html** will then scan your local working directory (where you are executing the command) and all direct sub-directories for `data.xml` files and `images/` folders.
